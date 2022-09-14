@@ -213,5 +213,5 @@ iurii-devops@Host-SPB:~/PycharmProjects/ansible/prod8-4test$ tree
 ## **Задача 17**
 #### В ответ необходимо прислать ссылку на репозиторий с collection.
 ```
-
+https://github.com/Iurii-77777/my_own_collection
 ```
