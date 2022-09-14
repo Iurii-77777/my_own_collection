@@ -1,0 +1,10 @@
+--- 
+- name: test my_new_module 
+  hosts: localhost 
+  gather_facts: false 
+ 
+  tasks:
+  - name: do a remote copy
+    my_new_module:
+      path: /tmp/file.txt
+      content: 'some data multi line'

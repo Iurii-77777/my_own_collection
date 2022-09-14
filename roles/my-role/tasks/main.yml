@@ -1,0 +1,5 @@
+---
+- name: START my_new_module
+  my_new_module:
+    path: "{{ my_path }}"
+    content: "{{ my_content }}"

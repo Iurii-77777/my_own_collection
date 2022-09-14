@@ -1,0 +1,4 @@
+---
+# defaults file for role
+  my_path: "/tmp/file.txt"
+  my_content: "some data multi line"
